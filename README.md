@@ -3,7 +3,7 @@
 
 🔗 **项目链接**：
 - **GitHub**: [https://github.com/GDUT-ELC/E-BookHub](https://github.com/GDUT-ELC/E-BookHub)
-- **百度网盘**: [https://pan.baidu.com/s/55KcRIiZsk_x7nqy3FKRXlA](https://pan.baidu.com/s/55KcRIiZsk_x7nqy3FKRXlA)
+- **百度网盘**: [https://pan.baidu.com/s/1Z8gALExHbSeKxgvnNDEBlA?pwd=nrtr)
 
 ⚠️ **重要提醒**：由于本仓库包含大量电子书资源，体积庞大，**强烈建议您不要直接克隆（Clone）整个仓库**，以免占用过多本地存储空间并导致下载缓慢。请优先通过上方的网盘链接下载所需文件，或使用GitHub的界面单独浏览、下载特定书籍。
 
